@@ -1,1 +1,1 @@
-# PyInstaller .spec file content placeholder
+# Final PyInstaller .spec file content placeholder
