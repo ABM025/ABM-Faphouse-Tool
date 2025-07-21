@@ -10,3 +10,12 @@ A custom-built desktop tool (Python + Tkinter) that allows:
 
 ## 📁 Files
 
+
+---
+
+## ⚙️ How to Use
+
+1. Open `source/main.py`
+2. Run using Python:
+   ```bash
+   python main.py
